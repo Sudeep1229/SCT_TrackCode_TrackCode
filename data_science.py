@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Load dataset
 data = pd.read_csv(
-    "E:/Sudeep files/API_SP.POP.TOTL.MA.ZS_DS2_en_csv_v2_2287.csv",
+    "API_SP.POP.TOTL.MA.ZS_DS2_en_csv_v2_2287.csv",
     skiprows=4
 )
 
